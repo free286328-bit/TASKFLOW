@@ -1,6 +1,6 @@
 {
-  "name": "TASKFLOW",
-  "short_name": "TASKFLOW",
+  "name": "Taskflow",
+  "short_name": "Taskflow",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
